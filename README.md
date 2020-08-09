@@ -5,3 +5,7 @@ The importance of Big Data is now recognized across a broad of scientific, socie
 
 The SciDatBench collection is accompanied by documentation allowing it to be used in the training of researchers in the rapidly evolving Big Data analysis techniques. SciDatBench pursues performance, quality, and pedagogical goals. The heart of the project is a set of virtual working group meetings associated with Science Data and other MLPerf activities of importance to SciDatBench. The project naturally impacts a broad range of scientific disciplines including eventually material sciences, environmental sciences, life sciences including epidemiology, fusion, particle physics, astronomy, earthquake, and earth sciences, with more than one representative problem from each of these domains. SciDatBench supports comparative studies and identifies requirements for future cyberinfrastructure to support scientific data analysis. The benchmarks not only record time to a solution but also multiple measures of the quality of the solution.
 
+* Early deliverables include building a community interested in Science Data Benchmarks, 
+* Weekly working group meetings
+* Jupyter notebook approach to accessing Scienve and he other MLPerf benchmarks
+* Initial Benchmarks including many from 
