@@ -10,4 +10,7 @@ The SciDatBench collection is accompanied by documentation allowing it to be use
 * Jupyter notebook approach to accessing Science and he other MLPerf benchmarks
 * Initial Benchmarks including many collected at the Rutherford Laboratory, UK 
 
+Useful Links are
+* The DSC SciDatBench [This GitHub Page](https://github.com/DSC-SPIDAL/SciDatBench)
+
 ![SciDatBench Initial Timetable](https://github.com/DSC-SPIDAL/SciDatBench/blob/master/SciDatBenchTimetable.JPG)
