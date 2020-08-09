@@ -1,5 +1,5 @@
 # SciDatBench: Principles and Prototypes of Science Data Benchmarks
-This is the Digital Science Center component of the SciDatBench Science Data Benchmarking project
+This is the Digital Science Center component of the SciDatBench Science Data Benchmarking project. It works with the MLPerf Science Data Experimental Working Group. 
 
 The importance of Big Data is now recognized across a broad of scientific, societal, and commercial problems. Analysis of this data requires new research in both the data analysis methods and the information technology hardware and software to use in the analysis. SciDatBench is establishing a new collection of important and representative Big scientific datasets together with typical software implementations of the machine learning algorithms that are needed for best practice analysis. It generates particular instances and is establishing a sustainable process for maintaining and enhancing them. This collection includes both standalone examples and end to end examples needing multiple components that are seen in the analysis of many science experiments. SciDatBench is affiliated as an approved Science Data working group with the very successful MLPerf activity with 80 organizational members looking at Industry machine learning benchmarks. The state-of-the-art examples in SciDatBench are contributing to progress in scientific discovery that advances the national health, prosperity, and welfare, as stated by NSF's mission. The project is proactively involving under-represented communities in its activities.
 
@@ -7,5 +7,5 @@ The SciDatBench collection is accompanied by documentation allowing it to be use
 
 * Early deliverables include building a community interested in Science Data Benchmarks, 
 * Weekly working group meetings
-* Jupyter notebook approach to accessing Scienve and he other MLPerf benchmarks
+* Jupyter notebook approach to accessing Science and he other MLPerf benchmarks
 * Initial Benchmarks including many from 
