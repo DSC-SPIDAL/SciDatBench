@@ -8,4 +8,4 @@ The SciDatBench collection is accompanied by documentation allowing it to be use
 * Early deliverables include building a community interested in Science Data Benchmarks, 
 * Weekly working group meetings
 * Jupyter notebook approach to accessing Science and he other MLPerf benchmarks
-* Initial Benchmarks including many from 
+* Initial Benchmarks including many collected at the Rutherford Laboratory, UK 
