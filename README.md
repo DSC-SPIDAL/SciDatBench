@@ -12,7 +12,7 @@ The SciDatBench collection is accompanied by documentation allowing it to be use
 * Tutorial material built around benchmarks
 
 Useful Links are
-* The DSC SciDatBench [This GitHub Page](https://github.com/DSC-SPIDAL/SciDatBench)
+* The DSC SciDatBench project at Indiana University [This GitHub Page](https://github.com/DSC-SPIDAL/SciDatBench)
 * Main MLPerf page [MLPerf Home Page](https://mlperf.org/)
 * Join MLPerf and Working Groups [Get Involved with MLPerf](https://mlperf.org/get-involved/#join-the-forum)
 * MLPerf Science Data [Google Group](https://groups.google.com/forum/#!forum/mlperf-science)
