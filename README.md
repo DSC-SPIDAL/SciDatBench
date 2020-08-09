@@ -19,3 +19,5 @@ Useful Links are
 * Contact [Geoffrey Fox](mailto:gcfexchange@gmail.com)
 
 ![SciDatBench Initial Timetable](https://github.com/DSC-SPIDAL/SciDatBench/blob/master/SciDatBenchTimetable.JPG)
+
+SciDatBench at IU is funded by NSF through an EAGER Grant NSF-OAC-2038007
