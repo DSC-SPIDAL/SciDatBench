@@ -16,6 +16,7 @@ Useful Links are
 * Main MLPerf page [MLPerf Home Page](https://mlperf.org/)
 * Join MLPerf and Working Groups [Get Involved with MLPerf](https://mlperf.org/get-involved/#join-the-forum)
 * MLPerf Science Data [Google Group](https://groups.google.com/forum/#!forum/mlperf-science)
+* Presentation on the Science Data working group [activities](https://docs.google.com/presentation/d/1LQmsNvz5XJgf1iYSSb0tswhIYeS_rQc32AX0n2YqC4g/edit?usp=sharing)
 * Contact [Geoffrey Fox](mailto:gcfexchange@gmail.com)
 
 ![SciDatBench Initial Timetable](https://github.com/DSC-SPIDAL/SciDatBench/blob/master/SciDatBenchTimetable.JPG)
